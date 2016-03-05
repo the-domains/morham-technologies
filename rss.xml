@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MorHam Technologies]]></title>
         <description><![CDATA[MorHam Technologies]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/morham-technologies/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 19:10:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 19:12:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/morham-technologies/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7fd9c4aa-9937-4f08-8a68-d57447422afb.png">]]></description>
-            <link>undefined8bafab72-c3d3-4d37-ab9a-a2c2a6394d2f/index.html</link>
+            <description><![CDATA[<p>MorHam Technologies</p>]]></description>
+            <link>https://thegrid.ai/morham-technologies/8bafab72-c3d3-4d37-ab9a-a2c2a6394d2f/index.html</link>
             <guid isPermaLink="false">8bafab72-c3d3-4d37-ab9a-a2c2a6394d2f</guid>
-            <pubDate>Sat, 05 Mar 2016 19:10:07 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2016 19:11:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
