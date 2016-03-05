@@ -1,0 +1,28 @@
+name: MorHam Technologies
+favicon: null
+layout_spectrum: 0.9555215269792825
+typography_spectrum: 0.3816936709918082
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7662762829568237
+  lightness: 0.0826565467286855
+  saturation: 0.32364714588038623
+  rhythmicContrast: 0.8769664308056235
+purpose: []
