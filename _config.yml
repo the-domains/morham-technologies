@@ -1,7 +1,7 @@
 name: MorHam Technologies
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.3816936709918082
+typography_spectrum: 0.61195
 title: MorHam Technologies
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#e82231'
-    - '#58595b'
-    - '#000000'
-    - '#a0a0a0'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.625
-  rhythmicContrast: 0.75
+    - '#b1bece'
+    - '#dad9d7'
+    - '#676d7b'
+    - '#3a3937'
+    - '#1c1c1c'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
