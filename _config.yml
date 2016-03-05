@@ -1,6 +1,6 @@
 name: MorHam Technologies
 favicon: null
-layout_spectrum: 0.9555215269792825
+layout_spectrum: 0
 typography_spectrum: 0.3816936709918082
 title: MorHam Technologies
 cta:
@@ -22,7 +22,7 @@ color:
     - '#58595b'
     - '#000000'
     - '#a0a0a0'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 1
   saturation: 0.625
   rhythmicContrast: 0.75
