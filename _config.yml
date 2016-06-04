@@ -1,29 +1,41 @@
-name: MorHam Technologies
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.61195
 title: MorHam Technologies
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.5032223
+  lightness: 0
+  brandColors:
+    - '#FFFFFF'
+    - '#EB1D29'
+    - '#5A5B5D'
+    - '#C7C7C7'
+    - '#000000'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: MorHam Technologies
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#b1bece'
-    - '#dad9d7'
-    - '#676d7b'
-    - '#3a3937'
-    - '#1c1c1c'
-  brandStrength: 0
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.5257788
+layout_spectrum: 0
